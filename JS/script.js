@@ -1,5 +1,7 @@
 const checkboxes = document.querySelectorAll('.inbox input[type="checkbox"]');
 
+let lastChecked;
+
 function handleCheck(e) {
     console.log(e);
 }
