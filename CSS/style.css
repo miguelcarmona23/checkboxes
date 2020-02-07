@@ -1,4 +1,8 @@
 html {
     font-family: sans-serif;
-    background: url(https://images.squarespace-cdn.com/content/v1/50e80d0be4b0e6a1b5e04212/1506510715798-UHZ51RMFFB1PDYJRQTCW/ke17ZwdGBToddI8pDm48kBY-qbJWPsJyl0YWCpcFDbUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dsxNFYAmgMGjc6Fc5yGmNvg1UnaapWEVQvWUkUW6qogqCjLISwBs8eEdxAxTptZAUg/Demoday-stripes.gif);
+    background: url(https://s29843.pcdn.co/blog/wp-content/uploads/sites/2/2016/08/citylarge.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
 }
